@@ -16,7 +16,7 @@
 | 📂 데이터 출처 | 경기데이터드림, 민간 부동산 매물 API, 공공 상권 데이터 등 |
 | 📍 기대 효과   | 3기 신도시에 적용 가능한 입지 및 설계 전략 도출           |
 
-## <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/공공데이터-0052CC?style=for-the-badge" /> <img src="https://img.shields.io/badge/네이버부동산-03C75A?style=for-the-badge&logo=naver&logoColor=white" /> </p>
+## <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /> <img src="https://img.shields.io/badge/경기데이터드림-0052CC?style=for-the-badge" /> <img src="https://img.shields.io/badge/네이버부동산-03C75A?style=for-the-badge&logo=naver&logoColor=white" /> </p>
 
 ## 👥 팀원 소개 및 역할
 
