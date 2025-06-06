@@ -20,11 +20,11 @@
 
 ## 👥 팀원 소개 및 역할
 
-| 팀원                                                                                                        | 역할                                               | GitHub 프로필                                   |
-| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/junhyeok0703" width="80" height="80"> <br>**박준혁 (팀장)** | 가격 관점 분석, 데이터 크롤링 및 전처리, 전략 설계 | [junhyeok0703](https://github.com/junhyeok0703) |
-| <img src="https://avatars.githubusercontent.com/moonsejin315" width="80" height="80"> <br>**문세진**        | 상권 밀도 분석, QGIS 공간 분석, 시각화 작업        | [moonsejin315](https://github.com/moonsejin315) |
-| <br>**윤재찬**                                                                                              | 교통 접근성 분석, 데이터 통합 및 정제              | GitHub 링크 미제공                              |
+| 팀원                                                                                                        | 역할                                                                       | GitHub 프로필                                   |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/junhyeok0703" width="80" height="80"> <br>**박준혁 (팀장)** | 가격 관점 분석, 데이터 크롤링 및 전처리, 전략 설계,QGIS 공간 데이터 전처리 | [junhyeok0703](https://github.com/junhyeok0703) |
+| <img src="https://avatars.githubusercontent.com/moonsejin315" width="80" height="80"> <br>**문세진**        | 상권 밀도 분석, QGIS 공간 분석, 시각화 작업                                | [moonsejin315](https://github.com/moonsejin315) |
+| <br>**윤재찬**                                                                                              | 교통 접근성 분석, 데이터 통합 및 정제                                      | GitHub 링크 미제공                              |
 
 ## 🧭 분석 흐름
 
